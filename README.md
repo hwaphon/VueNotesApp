@@ -1,21 +1,10 @@
-# 20171108
+# Vue Notes App
 
-> A Vue.js project
+> Vue + Vuex 构建的项目
 
-## Build Setup
+## 介绍
 
-``` bash
-# install dependencies
-npm install
+此项目的参考文章链接： [Learn Vuex by Building a Notes App](https://coligo.io/learn-vuex-by-building-notes-app/)
 
-# serve with hot reload at localhost:8080
-npm run dev
+Vue 项目 `npm run build` 之后上传到 `github pages` 无法正常预览的问题及解决方案： [Vue项目上传github并预览](http://www.imooc.com/article/19464?block_id=tuijian_wz)
 
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
